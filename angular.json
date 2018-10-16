@@ -126,7 +126,7 @@
       "root": "projects/ngx-color-spinner",
       "sourceRoot": "projects/ngx-color-spinner/src",
       "projectType": "library",
-      "prefix": "lib",
+      "prefix": "",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-ng-packagr:build",
